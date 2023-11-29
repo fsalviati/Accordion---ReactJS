@@ -1,2 +1,5 @@
-# Accordion---ReactJS
-Accordion - ReactJS
+# Accordion ReactJS
+
+## Screenshot
+
+![Screenshot](Screenshot.png)
